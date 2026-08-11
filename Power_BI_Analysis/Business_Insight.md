@@ -269,7 +269,7 @@ Combining operational and financial metrics creates a more complete picture of h
 
 ---
 
-# 💼 Business Recommendations
+#  Business Recommendations
 
 Based on the analytical framework developed in this project, the following recommendations can support healthcare decision-making:
 
