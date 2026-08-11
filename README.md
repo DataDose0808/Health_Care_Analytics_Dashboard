@@ -457,25 +457,6 @@ Regularly tracking patient and billing trends can help healthcare managers ident
 
 The repository will contain screenshots of the three major dashboard pages.
 
-### Healthcare Overview
-
-```text
-screenshots/healthcare-overview.png
-```
-
-### Healthcare Demographics
-
-```text
-screenshots/healthcare-demographics.png
-```
-
-### Healthcare Insights
-
-```text
-screenshots/healthcare-insights.png
-```
-
----
 
 # 📁 Repository Contents
 
