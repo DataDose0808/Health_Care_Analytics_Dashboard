@@ -30,7 +30,7 @@ Healthcare administrators can use patient-volume patterns to improve **capacity 
 
 ---
 
-## 👥 2. Patient Demographics Should Influence Healthcare Planning
+##  2. Patient Demographics Should Influence Healthcare Planning
 
 The demographic analysis examines patients across different **age groups and genders**, providing insight into the characteristics of the healthcare population.
 
@@ -194,7 +194,7 @@ Frequently used medications can be monitored to improve procurement planning and
 
 ---
 
-## ⚥ 8. Gender Analysis Provides Additional Patient Segmentation
+##  8. Gender Analysis Provides Additional Patient Segmentation
 
 Gender is incorporated into the demographic and financial analysis, allowing patient activity and billing patterns to be compared across demographic groups.
 
@@ -215,7 +215,7 @@ Healthcare organizations can use these patterns as a starting point for further 
 
 ---
 
-# 🔗 9. Connecting Operational & Financial Metrics
+#  9. Connecting Operational & Financial Metrics
 
 One of the key strengths of this project is that healthcare activity is not analyzed from a single perspective.
 
