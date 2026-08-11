@@ -614,13 +614,7 @@ The dashboard should not be used to make clinical diagnoses, determine individua
 
 Any healthcare-related recommendations presented in this project are analytical observations and should be interpreted within the appropriate professional and organizational context.
 
----
 
-# 👩🏽‍💻 About the Analyst
-
-**Adeola Omole**
-
-Aspiring Data Analyst focused on transforming raw data into meaningful insights through data analysis, visualization and business intelligence.
 
 ### Core Tools
 
@@ -628,15 +622,7 @@ Aspiring Data Analyst focused on transforming raw data into meaningful insights 
 
 I enjoy working on analytical projects that combine technical data skills with clear business storytelling.
 
----
 
-# ⭐ Project Takeaway
-
-> **Data becomes valuable when it helps people make better decisions.**
-
-This healthcare analytics project demonstrates how structured data, analytical modeling, DAX and interactive visualization can transform healthcare information into a decision-support tool.
-
----
 
 ## 📬 Let's Connect
 
